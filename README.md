@@ -1,6 +1,8 @@
 # brownbag-nov2019
 
-Slides for my talk *Content, Conversation, & Context: How Educators Talk to Each Other in Twitter #Edchat* for the EPET program brown bag series at Michigan State University.
+Slides for my talk for the EPET program brown bag series at Michigan State University:
+
+*Content, Conversation, & Context: How Educators Talk to Each Other in Twitter #Edchat* 
 
 **November 11, 2019**
 

@@ -32,8 +32,6 @@ class: inverse, left, top
 **Access my slide deck here:**  
 ### https://bretsw.github.io/brownbag-nov2019/
 
-
-
 **Follow me on Twitter:**  
 ### [@bretsw](https://twitter.com/bretsw)
 
@@ -407,7 +405,9 @@ include_graphics("img/tweet-discourse.png")
 
 # Results: RQ3. Social Network
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+Keyword #Edchat: blue edges = with; red edges = without
+
+```{r, out.width = "520px", echo = FALSE, fig.align = "center"}
 include_graphics("img/edchat_hashtag_thread_mashup.png")
 ```
 
