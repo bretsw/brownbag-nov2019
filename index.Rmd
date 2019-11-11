@@ -39,6 +39,19 @@ class: inverse, left, top
 
 class: inverse, center, middle
 
+ 
+# Thank you!
+
+**SRRF**
+
+**Summer Renewable Research Fellowship**
+
+MSU College of Education
+
+---
+
+class: inverse, center, middle
+
 # Twitter in Education
 
 ---
@@ -495,5 +508,8 @@ class: inverse, center, middle
 
 Bret Staudt Willet: [staudtwi@msu.edu](mailto:staudtwi@msu.edu)  
 
-The Github repository for this presentation is  
+The Github repository for this presentation is:  
 https://github.com/bretsw/brownbag-nov2019
+
+My R code is shared publicly at:  
+https://github.com/bretsw/edchat-interactions
